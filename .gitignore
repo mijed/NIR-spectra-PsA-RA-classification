@@ -1,0 +1,5 @@
+# data_src files
+data
+# virtual env, ide
+venv/
+.idea/
